@@ -1,0 +1,17 @@
+[
+    {
+        "year": 2024,
+        "season": "May",
+        "level": "HL",
+        "paper": "P2",
+        "timezone": "TZ1",
+        "question_no": 12,
+        "page_no": 1,
+        "image_path": "output/2024_May_HL_P2_TZ1/Q12/Q12_page1.png",
+        "type": "unclassified",
+        "bart_label": null,
+        "bart_score": null,
+        "distil_label": null,
+        "distil_score": null
+    }
+]
